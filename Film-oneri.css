@@ -1,0 +1,50 @@
+
+/* Patika.dev-css eğitiminin 1. Ödevi */
+
+
+h1{
+        text-align:center;
+}
+
+
+h1 a{
+        color: rgba(0, 0, 0, 0.744);
+        text-decoration: none;
+        font-size:xx-large;
+}
+
+
+ul {
+        list-style-type: none; 
+        text-align: center;
+        display: inline-block; 
+}
+
+
+li{
+        float:left;
+}
+
+
+li a {
+        padding:10px 13px;
+        background-color:rgba(0, 0, 0, 0.231);
+        color:antiquewhite;
+        text-decoration:none; 
+}
+
+
+li a:hover{
+     background-color:#494f4b; 
+}
+
+nav{
+        background-color: transparent;
+        text-align: center;
+        font-size: larger;
+    
+}
+
+.active{
+        background-color:rgba(0, 0, 0, 0.438);
+}
